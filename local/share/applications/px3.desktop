@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec="/home/azure/PX3/PX3"
+Categories=Game;
+Icon=/home/azure/PX3/px3.png
+Name=Planet X3
