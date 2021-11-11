@@ -1,2 +1,2 @@
 # PX3-Linux
-Planet X3 binaries for linux
+Just add your floppy files and play
